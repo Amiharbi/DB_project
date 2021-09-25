@@ -4,3 +4,32 @@ First step: Abstract part of the project
 As part of our Database Management class, our team has created a hotel reservation system that will allow a user to create, read, update, 
 or delete any reservation within the system. A user may run into an issue where they do not have all the rights to be able to make changes 
 within the reservation system as a manager or supervisor would. Also, not all reservations can be modified 24 hours prior to check-in time.
+
+Proposed Use Cases for Hotel Database Management System
+
+Actor/User: Customer
+
+Customer searches for available rooms.
+Customer enters account information.
+Customer logs into account.
+Customer updates account.
+Customer selects a room.
+Customer reserves a room.
+Customer adds an additional room.
+Customer enters payment information.
+Customer deletes a room reservation.
+
+Actor/User: Hotel employee
+
+Hotel employee adds an available room.
+Hotel employee searches all available rooms.
+Hotel employee deletes an available room.
+
+Hotel employee books a room for a customer.
+Hotel employee enters customer payment information.
+Hotel employee searches all currently booked rooms.
+Hotel employee deletes a reservation for a customer.
+
+Hotel employee adds a guest name.
+Hotel employee searches all current guest names.
+Hotel employee deletes a guest name.
