@@ -1,3 +1,4 @@
 Team members: 
 The project is about computer asset management
 First step: Abstract part of the project
+As part of our Database Management class, our team has created a hotel reservation system that will allow a user to create, read, update, or delete any reservation within the system. A user may run into an issue where they do not have all the rights to be able to make changes within the reservation system as a manager or supervisor would. Also, not all reservations can be modified 24 hours prior to check-in time.
