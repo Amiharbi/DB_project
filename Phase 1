@@ -7,29 +7,36 @@ within the reservation system as a manager or supervisor would. Also, not all re
 
 Proposed Use Cases for Hotel Database Management System
 
-Actor/User: Customer
+Actor/User: Hotel Guest
+Hotel guest searches for available rooms.
+Hotel guest selects a room.
+Hotel guest creates an account
+Hotel guest logs into account.
+Hotel guest reserves a room.
+Hotel guest enters account information.
+Hotel guest enters payment information.
+Hotel guest updates account.
+Hotel guest adds an additional room.
+Hotel guest deletes a room reservation.
+Hotel guest confirms the reservation
 
-Customer searches for available rooms.
-Customer enters account information.
-Customer logs into account.
-Customer updates account.
-Customer selects a room.
-Customer reserves a room.
-Customer adds an additional room.
-Customer enters payment information.
-Customer deletes a room reservation.
-
-Actor/User: Hotel employee
-
-Hotel employee adds an available room.
+Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
-Hotel employee deletes an available room.
-
-Hotel employee books a room for a customer.
-Hotel employee enters customer payment information.
-Hotel employee searches all currently booked rooms.
+Hotel employee adds a guests first and last name, DOB, gender
+Hotel employee enters guests payment information.
+Hotel employee books a room for a guest
+Hotel employee checks in guest
 Hotel employee deletes a reservation for a customer.
-
-Hotel employee adds a guest name.
+Hotel employee adds an available room.
 Hotel employee searches all current guest names.
-Hotel employee deletes a guest name.
+Hotel employee edits guest information
+Hotel employee deletes a guests information
+Hotel employee can add addtional charges to guests account for room service charge
+
+Actor/User: Hotel Manager
+Hotel manager overrides a cancelation
+Hotel manager can add a new employee to the system
+Hotel manager can remove an employee from the sytem
+Hotel manager can generate a monthly report of all reservations
+Hotel manager can adjust room rate
+Hotel manager can edit employee informaton
