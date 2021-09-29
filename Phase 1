@@ -4,16 +4,21 @@ Austin Harmon
 Ibrahima Doumbia
 
 Abstract:
-As part of our Database Management class, our team has created a hotel reservation system that will allow a user to create, read, update, 
+As part of our Database Management class, our team has created a hotel reservation system that will allow a hotel staff member to create, read, update, 
 or delete any reservation within the system. A user may run into an issue where they do not have all the rights to be able to make changes 
 within the reservation system as a manager or supervisor would. Also, not all reservations can be modified 24 hours prior to check-in time.
 
 Mission Statement:
 The purpose of the hotel reservation database system is to offer a practical solution for prospective hotel guests to efficiently plan their vacation
 while maintaining efficiency for hotel staff to manage all reservations. This in turn can increase both profits as a business as well as improving overall
-guest experience.
+guest experience. 
 
 Mission Objective:
+To maintain (enter, update, delete) data on hotel guests account information
+To maintain (enter, update, delete) data on staff members
+To maintain (enter, update, delete) data on available rooms
+To maintain (enter, update, delete) data on payment information
+To maintain (enter, update, delete) data on room rate
 
 
 Proposed Use Cases for Hotel Database Management System
