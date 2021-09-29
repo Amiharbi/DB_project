@@ -28,11 +28,14 @@ To perform searches on payment information
 To perform searches on room rates
 To perform searches on room service charges
 
+To report on hotel guests account information
+To report on staff members
+To report on available rooms
+To report on payment information
+To report on room rate
+To report on room service charges
 
-
-
-Proposed Use Cases for Hotel Database Management System
-
+Proposed Use Cases for Hotel Database Management System:
 Actor/User: Hotel Guest
 Hotel guest searches for available rooms.
 Hotel guest selects a room.
