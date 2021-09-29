@@ -41,16 +41,36 @@ To report on room service charges
 Proposed Use Cases for Hotel Database Management System:
 Actor/User: Hotel Guest
 Hotel guest searches for available rooms.
-Hotel guest selects a room.
-Hotel guest creates an account
-Hotel guest logs into account.
+  1. User enters dates and number of guests they want to stay
+  2. Results with available rooms on the specified dates are displayed
+  3. Prompt the user to select a room based on availability and rate
+  4. Total price for stay will be displayed
+  5. User will confirm selection
+Hotel guest creates an account if they are a new customer
+  6. User creates a username 
+  7. User creates a password
+  8. Prompt user to enter full name, address, telephone number
+  9. Display all guest information entered 
+  10. User clicks on "Confirm" to confirm all information entered is correct
+Hotel guest logs into account if they are a returning customer.
+  11. If the user is a returning customer, prompt the user to enter their login information
 Hotel guest reserves a room.
-Hotel guest enters account information.
+  12. Prompt the user to select a room based on availability and rate
+  13. User clicks on "Confirm" to confirm room selection
 Hotel guest enters payment information.
+  14. Prompt the user to enter their full name that appears on their credit/debit card
+  15. Prompt the user to enter their credit/debit card number and securtity code
+  16. Prompt the user to enter the billing address
 Hotel guest updates account.
+  17. If the user is a returning guest, prompt the user to confirm current information or update  information if neccessary
 Hotel guest adds an additional room.
+  18. If number of guests exceed room capacity, prompt the user to add an additional room if needed
 Hotel guest deletes a room reservation.
+  19. Once a guest is logged in, display a list of all current reservations
+  20. Allow the user to delete an existing reservation from the sytem if needed
 Hotel guest confirms the reservation
+  21. Display all guest information on confirmation page including name, payment information, selected room, and total price
+  22. Prompt the user to click on "Confirm" to confirm all information and finalize the reservation
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
