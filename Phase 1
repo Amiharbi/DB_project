@@ -19,6 +19,16 @@ To maintain (enter, update, delete) data on staff members
 To maintain (enter, update, delete) data on available rooms
 To maintain (enter, update, delete) data on payment information
 To maintain (enter, update, delete) data on room rate
+To maintain (enter, update, delete) data on room service charges
+
+To perform searches on hotel guests account information
+To perform searches on staff members
+To perform searches on available rooms
+To perform searches on payment information
+To perform searches on room rates
+To perform searches on room service charges
+
+
 
 
 Proposed Use Cases for Hotel Database Management System
