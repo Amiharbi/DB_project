@@ -37,7 +37,7 @@ To perform searches on employee
 To perform searches on available rooms
 To perform searches on payment information
 To perform searches on room rates
-To perform searches on room service charges
+To perform searches on room service charges***
 
 To track the status of available rooms for rent
 To track the status of how many guests are staying at the hotel
@@ -47,7 +47,7 @@ To report on employee
 To report on available rooms
 To report on payment information
 To report on room rate
-To report on room service charges
+To report on room service charges***
 
 Proposed Use Cases for Hotel Database Management System:
 Actor/User: Hotel Guest
