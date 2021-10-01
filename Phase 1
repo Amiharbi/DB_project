@@ -79,7 +79,11 @@ Hotel employee searches all available rooms.
   3. A list of available rooms for the dates specified will be displayed
   4. Prompt the employee to enter all guest and payment information
   5. Employee clicks on "confirm" to book the reservation
-Hotel employee adds a guests first and last name, DOB, gender
+Hotel employee adds a guests information (first and last name, DOB, gender)
+  1. Employee searches for reservation (if applicable)
+  2. Employee will enter first name, last name, phone number, address, email address, credit card info, billing address
+  3. Once entered, all information will be displayed
+  4. Employee clicks on "confirm" 
 Hotel employee enters guests payment information.
 Hotel employee books a room for a guest
 Hotel employee checks in guest
