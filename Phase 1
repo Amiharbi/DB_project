@@ -9,13 +9,13 @@ or delete any reservation within the system. A user may run into an issue where 
 within the reservation system as a manager or supervisor would. Also, not all reservations can be modified 24 hours prior to check-in time.
 
 Abstract(Proposed):
-The objective of the project is to design Hotel reservation application(system) which allows the manager to keep the record of the hotel and the guests(customers).
+The objective of the project is to design Hotel Reservation Application(System) which allows the manager to keep the record of the hotel and the guests(customers).
 The project is (will be implemented) in Microsoft SQL server as the database for the project.
 Our motivation for the project came from our enthusiasm and strong urge to learn how to design and implement the project in Microsoft SQL server.
 The Hotel Reservation System project mainly consists of two types of users. The guests(customers) who access the information provided by the system and the employee
 who modifies and updates the information.
 All the data needed for the application(system) is stored in the form of tables in the Microsoft SQL server (year goes here).
-The report contains the details of all the tasks carried out during the entire system(software) development ilfe cycle of the Hotel Reservation project. 
+The report contains the details of all the tasks carried out during the entire system(software) development life cycle of the Hotel Reservation project. 
 This document depicts all the details of the project.
 
 
