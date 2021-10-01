@@ -74,6 +74,11 @@ Hotel guest confirms the reservation
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
+  1. Employee click on "Search" button 
+  2. Employee will enter the dates needed for reservation
+  3. A list of available rooms for the dates specified will be displayed
+  4. Prompt the employee to enter all guest and payment information
+  5. Employee clicks on "confirm" to book the reservation
 Hotel employee adds a guests first and last name, DOB, gender
 Hotel employee enters guests payment information.
 Hotel employee books a room for a guest
