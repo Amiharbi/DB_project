@@ -15,14 +15,14 @@ guest experience.
 
 Mission Objective:
 To maintain (enter, update, delete) data on hotel guests account information
-To maintain (enter, update, delete) data on staff members
+To maintain (enter, update, delete) data on employee
 To maintain (enter, update, delete) data on available rooms
 To maintain (enter, update, delete) data on payment information
 To maintain (enter, update, delete) data on room rate
 To maintain (enter, update, delete) data on room service charges
 
 To perform searches on hotel guests account information
-To perform searches on staff members
+To perform searches on employee
 To perform searches on available rooms
 To perform searches on payment information
 To perform searches on room rates
@@ -32,7 +32,7 @@ To track the status of available rooms for rent
 To track the status of how many guests are staying at the hotel
 
 To report on hotel guests account information
-To report on staff members
+To report on employee
 To report on available rooms
 To report on payment information
 To report on room rate
