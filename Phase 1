@@ -8,6 +8,14 @@ As part of our Database Management class, our team has created a hotel reservati
 or delete any reservation within the system. A user may run into an issue where they do not have all the rights to be able to make changes 
 within the reservation system as a manager or supervisor would. Also, not all reservations can be modified 24 hours prior to check-in time.
 
+Abstract(Proposed >> source https://www.slideshare.net/innocentbratnishant/hotel-management-report-39061554):
+The objective of the project is to design Hotel reservation application(system) which allows the manager to keep the record of the hotel and the guests(customers).
+The project is (will be implemented) in SQL server as the database for the project.
+Our motivation for the project came from our enthusiasm and strong urge to learn how to design and implement the project in SQL server database.
+The Hotel Reservation System project mainly consists of two types of users. The guests(customers) who access the information provided
+
+
+
 Mission Statement:
 The purpose of the hotel reservation database system is to offer a practical solution for prospective hotel guests to efficiently plan their vacation*
 while maintaining efficiency for hotel staff to manage all reservations. This in turn can increase both profits as a business as well as improving overall
