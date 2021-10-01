@@ -101,10 +101,23 @@ Hotel employee searches all available rooms.
  Hotel employee searches for guest by first and last name becuase they lost their room key 
   1. Employee enters first and last name of guest
   2. All guest information will be displayed including name, DOB, email address, phone number, billing address to confirm identity
-Hotel employee edits guest information
-Hotel employee deletes a guests information
-Hotel employee can add addtional charges to guests account for room service charge
-
+ Hotel employee edits guest information
+  1. Hotel employee searches for the guest by name who needs to update their information
+  2. Hotel employee needs to update or edit guest information in the system
+  3. Employee updates information and all updated information will be displayed
+  4. Employee clicks on "confirm"
+ Hotel employee removes a guest from the reservation system after check-out is completed
+  1. Hotel employee searches for the guest by name or room number
+  2. All guest information will be displayed to confirm correct guest is selected
+  3. Hotel employee removes guest from the reservation system to show that they are no longer a current guest staying at the hotel
+  4. Hotel employee marks the room as vacant
+  5. Employee clicks on "confirm"
+ Hotel employee adds additional day(s) to a current reservation
+  1. Employee searches for guest by room number
+  2. Employee adds additional day to the current reservation
+  3. Display additional cost for extra nights stayed
+  4. Employee clicks on "confirm'
+ 
 Actor/User: Hotel Manager
 Hotel manager overrides a cancelation
 Hotel manager can add a new employee to the system
