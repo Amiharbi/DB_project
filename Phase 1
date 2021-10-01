@@ -84,11 +84,23 @@ Hotel employee searches all available rooms.
   1. Employee will enter first name, last name, phone number, address, email address, DOB, gender, payment information
   2. Once entered, all information will be displayed
   3. Employee clicks on "confirm"  
-
-Hotel employee checks in guest
-Hotel employee deletes a reservation for a customer.
-Hotel employee adds an available room.
-Hotel employee searches all current guest names.
+ Hotel employee checks in guest
+  1. Employee searches for reservation by reservation number or name
+  2. Employee assigns a room number to the guest and marks it as occupied
+  3. All guest information will be displayed
+  4. Employee clicks on "confirm"
+ Hotel employee deletes a reservation for a customer.
+  1. A guest decideds they no longer want to stay, employee searches for reservation by reservation number or name
+  2. Employee requests for manager approval for refund
+  3. Employee marks room from occupied to vacant
+  4. Employee clicks on "confirm"
+ Hotel employee adds an available room.
+  1. Employee searches for all unavaialble rooms first
+  2. Employee marks unavailable rooms to vacant
+  3. Employee clicks on "confirm"
+ Hotel employee searches for guest by first and last name becuase they lost their room key 
+  1. Employee enters first and last name of guest
+  2. All guest information will be displayed including name, DOB, email address, phone number, billing address to confirm identity
 Hotel employee edits guest information
 Hotel employee deletes a guests information
 Hotel employee can add addtional charges to guests account for room service charge
