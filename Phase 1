@@ -129,10 +129,36 @@ Hotel employee searches all available rooms.
   3. Display additional cost for extra nights stayed
   4. Employee clicks on "confirm'
  
-Actor/User: Hotel Manager
-Hotel manager overrides a cancelation
-Hotel manager can add a new employee to the system
-Hotel manager can remove an employee from the sytem
-Hotel manager can generate a monthly report of all reservations
-Hotel manager can adjust room rate
-Hotel manager can edit employee informaton
+ Actor/User: Hotel Manager
+ Hotel manager overrides a cancelation
+  1. Manager sign into the system with login credentials
+  2. Search for guest by reservation number or by room number
+  3. Display all guest information
+  4. Manager overrides cancelation by clicking on "override"
+  4. Manager clicks on "confirm"
+ Hotel manager can add a new employee to the system
+  1. Manager clicks on "add employee"
+  2. Manager enters new employee information (full name, address, DOB, gender, email, title)
+  3. System will display all information entered for new employee
+  4. Manager will click on "confirm" and an employee ID will automatically generate and be displayed 
+ Hotel manager can edit employee informaton
+  1. Manager searches for employee by employee ID #
+  2. Employees information will be displayed
+  3. Manager updates information
+  4. Employee information will  be displayed
+  5. Manger clicks on "confirm"
+ Hotel manager can remove an employee from the sytem
+  1. Manager searches for employee by employee ID
+  2. Employee information will be displayed based on employee ID
+  3. Manager will click on "delete" to remove the employee from the system
+  4. Manager will then click on "confirm"
+ Hotel manager can generate a monthly report of all reservations
+  1. Manager clicks on "report"
+  2. Manager enters a specific date range to generate a report
+  3. A list of all reservations for the dates entered will be displayed
+ Hotel manager can adjust room rate for all rooms based on room type
+  1. Managers searches for rooms based on room type
+  2. A list of all rooms based on room type will be displayed
+  3. Manager selects room based on room type, clicks on "adjust rate" and enters the new rate
+  4. Manager clicks on "confirm" and new rate will be applied to rooms based on room type
+
