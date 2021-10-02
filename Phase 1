@@ -30,24 +30,21 @@ To maintain (enter, update, delete) data on employee
 To maintain (enter, update, delete) data on available rooms
 To maintain (enter, update, delete) data on payment information
 To maintain (enter, update, delete) data on room rate
-To maintain (enter, update, delete) data on room service charges
 
 To perform searches on hotel guests account information
 To perform searches on employee
 To perform searches on available rooms
 To perform searches on payment information
 To perform searches on room rates
-To perform searches on room service charges***
 
 To track the status of available rooms for rent
-To track the status of how many guests are staying at the hotel
+To track how many guests are staying at the hotel
 
 To report on hotel guests account information
 To report on employee
 To report on available rooms
 To report on payment information
 To report on room rate
-To report on room service charges***
 
 Proposed Use Cases for Hotel Database Management System:
 Actor/User: Hotel Guest
@@ -161,4 +158,15 @@ Hotel employee searches all available rooms.
   2. A list of all rooms based on room type will be displayed
   3. Manager selects room based on room type, clicks on "adjust rate" and enters the new rate
   4. Manager clicks on "confirm" and new rate will be applied to rooms based on room type
+ Hotel manager adjusts employee pay rate
+  1. Hotel manger searches for employee by employee ID #
+  2. Employee information will be displayed
+  3. Hotel manager enters new pay rate
+  4. Manager clicks on "confirm"
+ Hotel manager adjusts employee schedule
+  1. Hotel manager searches for employee by employee ID #
+  2. Employee information will be displayed
+  3. Hotel manager clicks on "edit schedule"
+  4. Hotel manager modifies employee schedule
+  5. Hotel manager clicks on "confirm"
 
