@@ -65,47 +65,50 @@ Hotel guest searches for available rooms.
   4. Total price for stay will be displayed
   5. User will confirm selection
 Hotel guest creates an account if they are a new customer
-  6. User creates a username 
-  7. User creates a password
-  8. Prompt user to enter full name, address, telephone number
-  9. Display all guest information entered 
-  10. User clicks on "Confirm" to confirm all information entered is correct
+  1. User creates a username 
+  2. User creates a password
+  3. Prompt user to enter full name, address, telephone number
+  4. Display all guest information entered 
+  5. User clicks on "Confirm" to confirm all information entered is correct
 Hotel guest logs into account if they are a returning customer.
-  11. If the user is a returning customer, prompt the user to enter their login information
+  1. If the user is a returning customer, prompt the user to enter their login information
 Hotel guest reserves a room.
-  12. Prompt the user to select a room based on availability and rate
-  13. User clicks on "Confirm" to confirm room selection
+  1. Prompt the user to select a room based on availability and rate
+  2. User clicks on "Confirm" to confirm room selection
 Hotel guest enters payment information.
-  14. Prompt the user to enter their full name that appears on their credit/debit card
-  15. Prompt the user to enter their credit/debit card number and securtity code
-  16. Prompt the user to enter the billing address
+  1. Prompt the user to enter their full name that appears on their credit/debit card
+  2. Prompt the user to enter their credit/debit card number and securtity code
+  3. Prompt the user to enter the billing address
 Hotel guest updates account.
-  17. If the user is a returning guest, prompt the user to confirm current information or update  information if neccessary
+  1. If the user is a returning guest, prompt the user to confirm current information or update  information if neccessary
 Hotel guest adds an additional room.
-  18. If number of guests exceed room capacity, prompt the user to add an additional room if needed
+  11. If number of guests exceed room capacity, prompt the user to add an additional room if needed
 Hotel guest deletes a room reservation.
-  19. Once a guest is logged in, display a list of all current reservations
-  20. Allow the user to delete an existing reservation from the sytem if needed
+  1. Once a guest is logged in, display a list of all current reservations
+  2. Allow the user to delete an existing reservation from the sytem if needed
 Hotel guest confirms the reservation
-  21. Display all guest information on confirmation page including name, payment information, selected room, and total price
-  22. Prompt the user to click on "Confirm" to confirm all information and finalize the reservation
+  1. Display all guest information on confirmation page including name, payment information, selected room, and total price
+  2. Prompt the user to click on "Confirm" to confirm all information and finalize the reservation
 Hotel guest rents rental equipment
-  23. Hotel guest searches for available rental equipment
-  24. A list of available rental equipment will be displayed
-  25. Hotel guest selects rental equipment from the list
-  26. A price for that rental equipment will be displayed
-  27. Hotel guest will select date rented and date returned for the equipment
-  28. Hotel guests enters payment information
-  29. Hotel guest clicks "confirm" for payment
-  30. A payment confirmation number will be displayed
+  1. Hotel guest searches for available rental equipment
+  2. A list of available rental equipment will be displayed
+  3. Hotel guest selects rental equipment from the list
+  4. A price for that rental equipment will be displayed
+  5. Hotel guest will select date rented and date returned for the equipment
+  6. Hotel guests enters payment information
+  7. Hotel guest clicks "confirm" for payment
+  8. A payment confirmation number will be displayed
 Hotel guest books an excursion online
-  23. Hotel guest searches for available excursions
-  24. A list of available excursions will be displayed
-  25. Hotel guest selects an excursion from the list
-  26. Price and duration for that excursion will be displayed
-  27. Hotel guest will select the date for the excursion
-  28. Hotel guests enters payment information
-  29. Hotel guest clicks "confirm" for payment
+  1. Hotel guest searches for available excursions
+  2. A list of available excursions will be displayed
+  3. Hotel guest selects an excursion from the list
+  4. Price and duration for that excursion will be displayed
+  5. Hotel guest will select the date for the excursion
+  6. Hotel guests enters payment information
+  7. Hotel guest clicks "confirm" for payment
+Hotel guest cancels a rental equipment
+  1. 
+  
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
@@ -157,13 +160,13 @@ Hotel employee searches all available rooms.
   2. A list of all equipment that was rented will be displayed
   3. Employee confirms the return by clicking on "Returned" to make the equipment available again
 Hotel employee books an excursion for a guest
-  23. Hotel employee searches for available excursions
-  24. A list of available excursions will be displayed
-  25. Hotel guest selects an excursion from the list
-  26. Price and duration for that excursion will be displayed
-  27. Hotel guest will select the date for the excursion
-  28. Hotel guests enters payment information
-  29. Hotel guest clicks "confirm" for payment
+  1. Hotel employee searches for available excursions
+  2. A list of available excursions will be displayed
+  3. Hotel employee selects an excursion from the list
+  4. Price and duration for that excursion will be displayed
+  5. Hotel employee will select the date for the excursion
+  6. Hotel employee enters payment information
+  7. Hotel employee clicks "confirm" for payment
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation
