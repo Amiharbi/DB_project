@@ -184,6 +184,9 @@ Hotel employee cancels an excursion
 Hotel emloyee searches for hotel based on hotel ID
   1. Hotel employee enters hotel ID
   2. A list of information regarding that hotel ID will be displayed
+Hotel employee searches for hotel based on hotel type
+  1. Hotel employee searches for hotel based on type
+  2. A list of all hotels will be displayed based on the type that is searched for
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation
