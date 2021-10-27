@@ -44,6 +44,8 @@ To perform searchs on hotel
 
 To track the status of available rooms for rent
 To track how many guests are staying at the hotel
+To track the status on rental equipment
+To track the status on excursions
 
 To report on hotel guests account information
 To report on employee
@@ -52,6 +54,7 @@ To report on payment information
 To report on room rate
 To report on excursions
 To report on rental equipment
+To report on hotel
 
 Proposed Use Cases for Hotel Database Management System:
 Actor/User: Hotel Guest
@@ -86,6 +89,23 @@ Hotel guest deletes a room reservation.
 Hotel guest confirms the reservation
   21. Display all guest information on confirmation page including name, payment information, selected room, and total price
   22. Prompt the user to click on "Confirm" to confirm all information and finalize the reservation
+Hotel guest rents rental equipment
+  23. Hotel guest searches for available rental equipment
+  24. A list of available rental equipment will be displayed
+  25. Hotel guest selects rental equipment from the list
+  26. A price for that rental equipment will be displayed
+  27. Hotel guest will select date rented and date returned for the equipment
+  28. Hotel guests enters payment information
+  29. Hotel guest clicks "confirm" for payment
+  30. A payment confirmation number will be displayed
+Hotel guest books an excursion online
+  23. Hotel guest searches for available excursions
+  24. A list of available excursions will be displayed
+  25. Hotel guest selects an excursion from the list
+  26. Price and duration for that excursion will be displayed
+  27. Hotel guest will select the date for the excursion
+  28. Hotel guests enters payment information
+  29. Hotel guest clicks "confirm" for payment
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
@@ -131,7 +151,19 @@ Hotel employee searches all available rooms.
   1. Employee searches for guest by room number
   2. Employee adds additional day to the current reservation
   3. Display additional cost for extra nights stayed
-  4. Employee clicks on "confirm'
+  4. Employee clicks on "confirm"
+ Hotel guest returns rental equipment to employee
+  1. Employee searches for payment confirmation number provided by the guest
+  2. A list of all equipment that was rented will be displayed
+  3. Employee confirms the return by clicking on "Returned" to make the equipment available again
+Hotel employee books an excursion for a guest
+  23. Hotel employee searches for available excursions
+  24. A list of available excursions will be displayed
+  25. Hotel guest selects an excursion from the list
+  26. Price and duration for that excursion will be displayed
+  27. Hotel guest will select the date for the excursion
+  28. Hotel guests enters payment information
+  29. Hotel guest clicks "confirm" for payment
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation
