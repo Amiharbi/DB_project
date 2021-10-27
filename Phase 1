@@ -181,6 +181,9 @@ Hotel employee cancels an excursion
   1. Hotel employee enters payment confirmation number
   2. A list of all excursions will be displayed
   3. Hotel employee clicks on "Cancel" and then "Confirm" to confirm the cancelation
+Hotel emloyee searches for hotel based on hotel ID
+  1. Hotel employee enters hotel ID
+  2. A list of information regarding that hotel ID will be displayed
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation
@@ -225,4 +228,7 @@ Hotel employee cancels an excursion
   3. Hotel manager clicks on "edit schedule"
   4. Hotel manager modifies employee schedule
   5. Hotel manager clicks on "confirm"
+ Hotel manager searches for hotel based on hotel ID
+  1. Hotel manager enters hotel ID
+  2. A list of information regarding that hotel ID will be displayed
 
