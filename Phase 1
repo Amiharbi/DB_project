@@ -231,9 +231,9 @@ Hotel employee searches for hotel based on hotel type
   3. Hotel manager clicks on "edit schedule"
   4. Hotel manager modifies employee schedule
   5. Hotel manager clicks on "confirm"
- Hotel manager searches for hotel based on hotel ID
-  1. Hotel manager enters hotel ID
-  2. A list of information regarding that hotel ID will be displayed
+ Hotel manager searches for hotel based on state
+  1. Hotel manager searches for hotel based on state
+  2. A list of information regarding hotels in that state will be displayed
  Hotel manager changes the prices of the rental equipment
   1. Hotel manager searches for all rental equipment
   2. A list of all rental equipment types will be displayed along with their current price
