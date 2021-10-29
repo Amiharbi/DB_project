@@ -203,6 +203,9 @@ Hotel employee searches for total number of reservations at a hotel
 Hotel employee searches for all payments made within a specific date range
   1. Hotel employee enters date range to search for all payments within the date range entered
   2. A list of all payments for that specific date range entered will be displayed
+Hotel employee wants to search for total number of hotels within a specific state
+  1. Hotel employee searches hotel based on state
+  2. A list of all hotels based on the location entered will be displayed
 
  
  Actor/User: Hotel Manager
