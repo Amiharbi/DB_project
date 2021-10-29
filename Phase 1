@@ -118,6 +118,9 @@ Hotel guest cancels an excursion
 Hotel guest deletes address information
   1. Hotel guest deletes address information
   2. Hotel guest clicks on “Confirm” to confirm the changes
+Hotel guest searches for hotel based on the hotel type
+  1. Hotel guests searches for hotel based on property type
+  2. A list of all hotels based on the type entered will be displayed
 
 
 Actor/User: Hotel Employee
