@@ -194,6 +194,9 @@ Hotel employee searches for hotel based on hotel type
 Hotel employee searches for total number of guests staying at the hotel within a specific date range
   1. Hotel employee enters specific date range to search for total number of guests staying during that time period
   2. A list of total number of guests will be displayed
+Hotel employee searches for total number of reservations at a hotel
+  1. Hotel employee enteres specific date range to be searched
+  2. A list of all reservations for entered date range will be displayed
 
  
  Actor/User: Hotel Manager
