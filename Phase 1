@@ -287,3 +287,7 @@ Hotel manager deletes a rental equipment that can be rented by a hotel guest
  Hotel manager deletes street address from a hotel
   1. Hotel manager searches for hotel
   2. Hotel manager deleted address and clicks on "Confirm" to confirm the changes
+ Hotel manager updates phone number for hotel
+  1. Hotel manager searches for hotel to update phone number
+  2. Hotel manager enters new phone number
+  3. Hotel manager clicks on "Confirm" to confirm the changes
