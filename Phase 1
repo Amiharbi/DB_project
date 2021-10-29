@@ -203,7 +203,7 @@ Hotel employee searches for all payments made within a specific date range
 
  
  Actor/User: Hotel Manager
- Hotel manager overrides a cancelation
+ Hotel manager overrides a cancelation and cancles a payment
   1. Manager sign into the system with login credentials
   2. Search for guest by reservation number or by room number
   3. Display all guest information
