@@ -281,3 +281,6 @@ Hotel manager deletes a rental equipment that can be rented by a hotel guest
   2. A list of all excursiont to be deleted will then be displayed
   3. Hotel manager selects the excursion to be deleted
   4. Hotel manager clicks on "Confirm" to confirm the changes
+ Hotel manager deletes street address from a hotel
+  1. Hotel manager searches for hotel
+  2. Hotel manager deleted address and clicks on "Confirm" to confirm the changes
