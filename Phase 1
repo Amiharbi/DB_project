@@ -115,6 +115,10 @@ Hotel guest cancels an excursion
   1. Hotel guest enters payment confirmation number
   2. A list of all excursions will be displayed
   3. Hotel guest clicks on "Cancel" and then "Confirm" to confirm the cancelation
+Hotel guest deletes address information
+  1. Hotel guest deletes address information
+  2. Hotel guest clicks on “Confirm” to confirm the changes
+
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
@@ -187,6 +191,10 @@ Hotel emloyee searches for hotel based on hotel ID
 Hotel employee searches for hotel based on hotel type
   1. Hotel employee searches for hotel based on type
   2. A list of all hotels will be displayed based on the type that is searched for
+Hotel employee searches for total number of guests staying at the hotel within a specific date range
+  1. Hotel employee enters specific date range to search for total number of guests staying during that time period
+  2. A list of total number of guests will be displayed
+
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation
