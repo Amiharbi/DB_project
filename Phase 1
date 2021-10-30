@@ -301,4 +301,7 @@ Hotel manager deletes a rental equipment that can be rented by a hotel guest
   1. Hotel manager searches for a room by room ID
   2. Hotel manager selects the room to be removed
   3. Hotel manager clicks on 'confirm' to remove the room from the system
- 
+ Hotel manager obtain a count of all golf cart as rental equipment
+  1. Hotel manager searches for the total rental equipment golf cart from the system
+  2. Hotel manager enters the rental ID of equipment golf cart to get the total number
+  3. A total number of the rental equipment is displayed
