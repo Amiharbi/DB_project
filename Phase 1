@@ -306,5 +306,17 @@ Hotel employee changes a room status to occupied after a guest checks in
   2. Hotel manager enters the rental ID of equipment golf cart to get the total number
   3. A total number of the rental equipment is displayed
 Hotel manager Hotel obtains average price of all excursions
-  1.Hotel manager searches for the average price of all excursion
+  1. Hotel manager searches for the average price of all excursion
   2. The total average price of all excursion is displayed
+Hotel manager enters new manager inforamtion in the system
+  1. Manager clicks on "add manager"
+  2. Manager enters new manager information (full name, address, DOB, TelNo, Manager_ID, salary)
+  3. System will display all information entered for new manager
+  4. Manager will click on "confirm" and a manager ID will automatically generate and be displayed
+Hotel manager update a manager information
+  1. Manager searches for manager by manager ID #
+  2. manager information will be displayed for edit
+  3. Manager updates information
+  4. manager information will  be displayed with the update
+  5. Manager clicks on "confirm"
+ 
