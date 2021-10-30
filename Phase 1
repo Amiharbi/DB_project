@@ -319,4 +319,14 @@ Hotel manager update a manager information
   3. Manager updates information
   4. manager information will  be displayed with the update
   5. Manager clicks on "confirm"
- 
+Hotel manager removes another manager from the system 
+  1. Manager searches for a manager by manager ID
+  2. manager information will be displayed based on manager ID
+  3. Manager will click on "delete" to remove the manager from the system
+  4. Manager will then click on "confirm"
+Hotel manager obtains a count of all managers working at the hotel
+  1. Hotel manager searches for the total of managers from the system
+  2. A total number of managers will be displayed.
+Hotel manager searches for all the guests that make a reservation with a resercation number
+  1. Hotel manager searches all the guest in the system that made a reservation
+  2. A list of all the guests and their reservations are displayed.
