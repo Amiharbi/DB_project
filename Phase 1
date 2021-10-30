@@ -226,7 +226,7 @@ Hotel employee wants to search for total number of hotels within a specific stat
   3. Manager updates information
   4. Employee information will  be displayed
   5. Manger clicks on "confirm"
- Hotel manager can remove an employee from the sytem
+ Hotel manager can remove an employee from the system
   1. Manager searches for employee by employee ID
   2. Employee information will be displayed based on employee ID
   3. Manager will click on "delete" to remove the employee from the system
@@ -240,7 +240,7 @@ Hotel employee wants to search for total number of hotels within a specific stat
   2. A list of all rooms based on room type will be displayed
   3. Manager selects room based on room type, clicks on "adjust rate" and enters the new rate
   4. Manager clicks on "confirm" and new rate will be applied to rooms based on room type
- Hotel manager adjusts employee pay rate
+ Hotel manager adjusts employee pay rate or salary
   1. Hotel manger searches for employee by employee ID #
   2. Employee information will be displayed
   3. Hotel manager enters new pay rate
@@ -291,3 +291,9 @@ Hotel manager deletes a rental equipment that can be rented by a hotel guest
   1. Hotel manager searches for hotel to update phone number
   2. Hotel manager enters new phone number
   3. Hotel manager clicks on "Confirm" to confirm the changes
+ Hotel manager obtains count of all employees at the hotel
+ 1. Hotel manager searches for the total emnployees in the hotel 
+ 2. Hotel manager enter the hotel name to get number of employees
+ 3. A total number of employees in the hotel is displayed.
+ 
+ 
