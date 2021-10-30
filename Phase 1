@@ -294,8 +294,11 @@ Hotel manager deletes a rental equipment that can be rented by a hotel guest
   2. Hotel manager enters new phone number
   3. Hotel manager clicks on "Confirm" to confirm the changes
  Hotel manager obtains count of all employees at the hotel
- 1. Hotel manager searches for the total emnployees in the hotel 
- 2. Hotel manager enter the hotel name to get number of employees
- 3. A total number of employees in the hotel is displayed.
- 
+  1. Hotel manager searches for the total emnployees in the hotel 
+  2. Hotel manager enter the hotel name to get number of employees
+  3. A total number of employees in the hotel is displayed.
+ Hotel manager removes a room for maintenance purpose
+  1. Hotel manager searches for a room by room ID
+  2. Hotel manager selects the room to be removed
+  3. Hotel manager clicks on 'confirm' to remove the room from the system
  
