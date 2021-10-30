@@ -206,7 +206,9 @@ Hotel employee searches for all payments made within a specific date range
 Hotel employee wants to search for total number of hotels within a specific state
   1. Hotel employee searches hotel based on state
   2. A list of all hotels based on the location entered will be displayed
-
+Hotel employee changes a room status to occupied after a guest checks in
+  1. Hotel employee researches for a room based on the room ID
+  2. Hotel employee changes the room status from vacant to occupied
  
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation and cancles a payment
