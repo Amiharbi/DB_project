@@ -266,17 +266,17 @@ Hotel employee changes a room status to occupied after a guest checks in
   2. A list of all excursions types will be displayed along with their current price
   3. Manager can select whichever excursions that needs the price to be changed
   4. Manager clicks "Confirm" to confirm the price change
-Hotel manager adds a new rental equipment that can be rented by a hotel guest
+ Hotel manager adds a new rental equipment that can be rented by a hotel guest
   1. Hotel manager clicks on "Add new equipment"
   2. Hotel manager enters information about the new equipment
   3. A list of all newly added equipment will then be displayed
   3. Hotel manager clicks on "Confirm" to confirm the changes
-Hotel manager adds a new excursion
+ Hotel manager adds a new excursion
   1. Hotel manager clicks on "Add new excursion"
   2. Hotel manager enters information about the new excursion
   3. A list of all newly added excursions will then be displayed
   3. Hotel manager clicks on "Confirm" to confirm the changes
-Hotel manager deletes a rental equipment that can be rented by a hotel guest
+ Hotel manager deletes a rental equipment that can be rented by a hotel guest
   1. Hotel manager clicks on "Delete equipment"
   2. A list of all equipment to be deleted will then be displayed
   3. Hotel manager selects the equipment to be deleted
