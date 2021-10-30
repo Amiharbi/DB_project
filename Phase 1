@@ -305,3 +305,6 @@ Hotel employee changes a room status to occupied after a guest checks in
   1. Hotel manager searches for the total rental equipment golf cart from the system
   2. Hotel manager enters the rental ID of equipment golf cart to get the total number
   3. A total number of the rental equipment is displayed
+Hotel manager Hotel obtains average price of all excursions
+  1.Hotel manager searches for the average price of all excursion
+  2. The total average price of all excursion is displayed
