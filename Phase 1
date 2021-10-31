@@ -362,4 +362,4 @@ Hotel manager generates a list of all employees working at the hotel
   2. A list of all the employees that work at that hotel will be displayed
 Hotel manager generates a list of all employees and their manager's ID
  1. Hotel manager searches all the employees by their ID to display the managers link to them
- 2. All the employees and their managers information will be displayed with their ID
+ 2. All the employees and their managers information will be displayed with their ID  
