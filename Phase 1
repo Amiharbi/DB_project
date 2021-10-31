@@ -125,9 +125,11 @@ Hotel views a list of activities at a hotel with a corresponding hotel name
   1. Guest searches by activity type at a hotel
   2. A list of activities is displayed with the type
   3. Guest selects the activity type
-
-
-
+Hotel guest views a list of all room type at a hotel
+  1. Hotel guest searches room in a the hotel by room type
+  2. All the rooms type information are displayed
+Hotel guest views a list of activities at a hotel with a corresponding hotel name
+ 1. 
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
@@ -215,7 +217,19 @@ Hotel employee wants to search for total number of hotels within a specific stat
 Hotel employee changes a room status to occupied after a guest checks in
   1. Hotel employee researches for a room based on the room ID
   2. Hotel employee changes the room status from vacant to occupied
- 
+Hotel employee searches for a reservation for a payment made on specific date.
+  1. Hotel employee enters a payment made on a date by entering a payment date
+  2. A reservation made at that date is displayed to find a guest.
+Hotel employee searches reservations by reservation number
+  1. Hotel employee enters a reservation number to find the employee that did that reservation
+  2. The reservation information are displayed with the employee that did that reservation
+Hotel manager obtains a list all guest and the employee that checked each guest into the hotel
+  1. Manager enters a guest first and last names
+  2. The guest first and last names and the employee_ID of the employee that checked that guest will be displayed
+Hotel employee views reservation concerning a room number
+  1. Hotel employee enters a room number to find the reservation links to it
+  2. The room number and the reservation number are displayed
+
  Actor/User: Hotel Manager
  Hotel manager overrides a cancelation and cancles a payment
   1. Manager sign into the system with login credentials
@@ -337,5 +351,11 @@ Hotel manager searches for all the guests that make a reservation with a reserva
   1. Hotel manager searches all the guest in the system that made a reservation
   2. A list of all the guests and their reservations are displayed.
 Hotel manager views a list of rentals offered at all hotels
- 1. Hotel manager searches for rental type in all hotel
- 2. Rentals type in all hotel information are displayed
+  1. Hotel manager searches for rental type in all hotel
+  2. Rentals type in all hotel information are displayed
+Hotel manager generates a list of all employees working at the hotel 
+  1.Hotel manager searches employees that working at the hotel by employee first name and employee_ID
+  2. A list of all the employees that work at that hotel will be displayed
+Hotel manager generates a list of all employees and their manager's ID
+ 1. Hotel manager searches all the employees by their ID to display the managers link to them
+ 2. All the employees and their managers information will be displayed with their ID
