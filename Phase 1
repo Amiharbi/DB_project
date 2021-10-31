@@ -129,7 +129,11 @@ Hotel guest views a list of all room type at a hotel
   1. Hotel guest searches room in a the hotel by room type
   2. All the rooms type information are displayed
 Hotel guest views a list of activities at a hotel with a corresponding hotel name
- 1. 
+ 1. Guest searches an activity at the hotel based on the hotel name
+ 2. All the activities of that hotel will be displayed
+Hotel guest views a list of rentals equipment at the hotel
+ 1. Guest searches rental equipment at the hotel based on the rental type
+ 2. All the information of the rental equipemnt of that hotel will be displayed
 
 Actor/User: Hotel Employee
 Hotel employee searches all available rooms.
