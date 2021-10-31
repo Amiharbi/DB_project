@@ -121,6 +121,12 @@ Hotel guest deletes address information
 Hotel guest searches for hotel based on the hotel type
   1. Hotel guests searches for hotel based on property type
   2. A list of all hotels based on the type entered will be displayed
+Hotel views a list of activities at a hotel with a corresponding hotel name
+  1. Guest searches by activity type at a hotel
+  2. A list of activities is displayed with the type
+  3. Guest selects the activity type
+
+
 
 
 Actor/User: Hotel Employee
@@ -327,6 +333,9 @@ Hotel manager removes another manager from the system
 Hotel manager obtains a count of all managers working at the hotel
   1. Hotel manager searches for the total of managers from the system
   2. A total number of managers will be displayed.
-Hotel manager searches for all the guests that make a reservation with a resercation number
+Hotel manager searches for all the guests that make a reservation with a reservation number
   1. Hotel manager searches all the guest in the system that made a reservation
   2. A list of all the guests and their reservations are displayed.
+Hotel manager views a list of rentals offered at all hotels
+ 1. Hotel manager searches for rental type in all hotel
+ 2. Rentals type in all hotel information are displayed
